@@ -120,3 +120,4 @@ docker compose up --build
 
 After successful deployment, you should see Ollama as an option for LLM endpoints in the LibreChat UI.
 
+<image src="image.png" alt="alt text" style="width: 80%;">
