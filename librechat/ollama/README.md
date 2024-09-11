@@ -1,4 +1,4 @@
-# Ollama Setup for MacBook Pro M3
+# Ollama Setup for MacBook Pro
 
 This guide provides instructions for setting up Ollama on a MacBook Pro. Follow these steps to get Ollama working with LibreChat.
 
